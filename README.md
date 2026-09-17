@@ -25,4 +25,4 @@ The system improves a normal RFID door lock by detecting how many people actuall
 
 ## Prototype
 
-![Smart Door Security Prototype](images/prototype.jpg)
+![Smart Door Security Prototype](prototype.jpg)
